@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👁️⃤ I’m currently working on Project Thoth 
+- 🎓 Masters student at Northeastern University
+- 🌱 I’m currently learning to write better code
+- 💬 Ask me about the universe
+- 🌊 Love to stay close to water
+- 🍳 Fun fact: I am eager to cook new recipes
