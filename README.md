@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👁️⃤ I’m currently working on Project Thoth 
+- ⚓ I’m currently working on Azure Arc
 - 🎓 Masters student at Northeastern University
 - 🌱 I’m currently learning to write better code
 - 💬 Ask me about the universe
