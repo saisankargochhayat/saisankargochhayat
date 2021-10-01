@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚓ I’m currently working on Azure Arc
-- 🎓 Masters student at Northeastern University
+- 🎓 Graduated from Northeastern University
 - 🌱 I’m currently learning to write better code
 - 💬 Ask me about the universe
 - 🌊 Love to stay close to water
